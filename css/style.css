@@ -1,0 +1,27 @@
+/* POLICE */
+
+@font-face {
+    font-family: "Guerilla";
+    src: url(../Police/ProtestGuerrilla-Regular.ttf);
+}
+
+/* PAGE */
+
+body {
+    background-image: url('../img/fond.png');
+}
+
+header {
+    background-color: rgb(169, 158, 143, 0.95);
+    font-family: 'Guerilla';
+}
+
+main {
+    background-color: rgb(169, 158, 143, 0.9);
+    color: #137513;
+    font-weight: 900;
+}
+
+h1 {
+    color: #137513;
+}
